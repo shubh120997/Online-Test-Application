@@ -1,0 +1,183 @@
+{
+    "questions": [{
+            "questionText": "Number of primitive data types in Java are?",
+            "options": [{
+                    "text": "8",
+                    "correct": true
+                },
+                {
+                    "text": "7"
+                },
+                {
+                    "text": "6"
+                },
+                {
+                    "text": "9"
+                }
+            ],
+            "explanation": "There are 8 types of primitive data types- int, char, boolean, byte, long, float, short, double."
+        },
+        {
+            "questionText": "What is the size of float and double in java?",
+            "options": [{
+                    "text": "32 and 64",
+                    "correct": true
+                },
+                {
+                    "text": "32 and 32"
+                },
+                {
+                    "text": "64 and 64"
+                },
+                {
+                    "text": "64 and 32"
+                }
+            ],
+            "explanation": "The size of float and double in java is 32 and 64."
+        },
+        {
+            "questionText": "Automatic type conversion is possible in which of the possible cases?",
+            "options": [{
+                    "text": "Byte to Int"
+                },
+                {
+                    "text": "Int to Long",
+                    "correct": true
+                },
+                {
+                    "text": "Long to Int"
+                },
+                {
+                    "text": "Short to Int"
+                }
+            ],
+            "explanation": "Automatic type conversion is possible in Int to long."
+        },
+        {
+            "questionText": "Select the valid statement.",
+            "options": [{
+                    "text": "char[] ch = new char(5)"
+                },
+                {
+                    "text": "char[] ch = new char[5]",
+                    "correct": true
+                },
+                {
+                    "text": "char[] ch = new char[]"
+                },
+                {
+                    "text": "char[] ch = new char()"
+                }
+            ],
+            "explanation": "char[] ch = new char[5] is the correct syntax for declaring a character array."
+        },
+        {
+            "questionText": "When an array is passed to a method, what does the method receive?",
+            "options": [{
+                    "text": "The reference of the array",
+                    "correct": true
+                },
+                {
+                    "text": "A copy of the array"
+                },
+                {
+                    "text": "Length of the array"
+                },
+                {
+                    "text": "Copy of the first element"
+                }
+            ],
+            "explanation": "When an array is passed to a method, a reference of the array is received by the method."
+        },
+        {
+            "questionText": "Select the valid statement to declare and initialize an array.",
+            "options": [{
+                    "text": "int[] A = {}"
+                },
+                {
+                    "text": "int[] A = (1, 2, 3)"
+                },
+                {
+                    "text": "int[][] A = {1, 2, 3}"
+                },
+                {
+                    "text": "int[] A = {1, 2, 3}",
+                    "correct": true
+                }
+            ],
+            "explanation": "int[] A = {1, 2, 3} is the valid way of declaring arrays."
+        },
+        {
+            "questionText": "Identify the keyword among the following that makes a variable belong to a class,rather than being defined for each instance of the class.",
+            "options": [{
+                    "text": "final"
+                },
+                {
+                    "text": "static",
+                    "correct": true
+                },
+                {
+                    "text": "volatile"
+                },
+                {
+                    "text": "abstract"
+                }
+            ],
+            "explanation": "Static keyword makes a variable belong to a class,rather than being defined for each instance of the class."
+        },
+        {
+            "questionText": "compareTo() returns",
+            "options": [{
+                    "text": "An int value",
+                    "correct": true
+                },
+                {
+                    "text": "true"
+                },
+                {
+                    "text": "false"
+                },
+                {
+                    "text": "None"
+                }
+            ],
+            "explanation": "compareTo() returns an int value"
+        },
+        {
+            "questionText": "To which of the following does the class string belong to.",
+            "options": [{
+                    "text": "java.string",
+                    "correct": true
+                },
+                {
+                    "text": "java.lang"
+                },
+                {
+                    "text": "java.awt"
+                },
+                {
+                    "text": "java.applet"
+                }
+            ],
+            "explanation": "string class belongs to java.lang."
+        },
+        {
+            "questionText": "Identify the return type of a method that does not return any value.",
+            "options": [{
+                    "text": "void",
+                    "correct": true
+                },
+                {
+                    "text": "int"
+                },
+                {
+                    "text": "double"
+                },
+                {
+                    "text": "None"
+                }
+            ],
+            "explanation": "void does not return any value."
+        }
+    ]
+}
